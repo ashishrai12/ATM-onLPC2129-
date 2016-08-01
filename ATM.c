@@ -1,3 +1,6 @@
+//Ashish Rai
+//Code for ATM simulation
+
 #include<LPC21xx.h>
 #include<stdio.h>
 #include<math.h>
