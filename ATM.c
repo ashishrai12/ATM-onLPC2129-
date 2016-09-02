@@ -1,6 +1,5 @@
 //Ashish Rai
 //Code for ATM simulation
-
 #include<LPC21xx.h> // for LPC2129 ARM7TDMI
 #include<stdio.h>
 #include<math.h>
